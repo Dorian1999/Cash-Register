@@ -23,7 +23,7 @@ You can easily customize the product list by adding or removing items from the p
 
 Technologies
 
-The application was developed using the C++17 standard.
+The application was developed using the C++ standard.
 
 License
 
